@@ -52,7 +52,7 @@ idealmente son menores que el  épsilon de la máquina. Si el algoritmo es
 inestable, un peque~no error puede ser desastroso, como en el caso de la raíz de
 la parábola.
 `Condición de una función`
-|La condición de una función describe cuánto puede variar el error en el
+La condición de una función describe cuánto puede variar el error en el
 resultado de la evaluación de una funcioón, si varía el error en el argumento.
 Cómo sabemos cúal es????????
 El error relativo(df) que se comete en la función es:
@@ -64,7 +64,7 @@ varía el error relativo del argumento se puede describir cómo:
 $$\frac{df}{dx}=\frac{\frac{|fx-fx'|}{|fx|}}{\frac{|x-x'|}{|x|}}$$
 observando....
 si un pequeño error en el argumento provocar un error grande en la función el valor de ese cociente es grande. Por otro lado, si el error en la función es menor que el error en el
-argumento, entonces el cociente es un número pequeño. Si los dos errores (el de la función y el del argumento) son similares, el valor del cociente está cercano a uno.
+argumento, entonces el cociente es un número diminuto. Si los dos errores (el de la función y el del argumento) son similares, el valor del cociente está cercano a uno.
 Luego...La condición:
 $$cond(f)=max(x.proximo(x'))\frac{\frac{|fx-fx'|}{|fx|}}{\frac{|x-x'|}{|x|}}$$
 si f es diferenciable entonces:
