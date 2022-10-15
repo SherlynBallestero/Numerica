@@ -72,6 +72,6 @@ $$cond(f)=|\frac{xf'x}{fx}|$$
 observando...
 un error, por peque~no que sea, en el argumento de la resta, puede traducirse en un error potencialmente infonito! en el resultado ,así que se debería tener cuidado con la resta, sobre todo si lo que se resta son dos
 números  cercanos"
-![](quinta.jpg)
+![](quinta.jpg "quinta")
 #### Estabilidad
 una forma de determinar si un método para calcular un valor es estable o no, es comparar la condición de lo que se quiere calcular con la condición de cada una de las funciones involucradas en ese cálculo.
