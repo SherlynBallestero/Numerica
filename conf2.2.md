@@ -55,7 +55,7 @@ la parábola.
 |La condición de una función describe cuánto puede variar el error en el
 resultado de la evaluación de una funcioón, si varía el error en el argumento.
 Cómo sabemos cúal es????????
-~El error relativo(df) que se comete en la función es:
+El error relativo(df) que se comete en la función es:
 $$df=\frac{|fx-fx'|}{|fx|} $$
 Y el error relativo que se comete al aproximar x por x' es:
 $$dx=\frac{|x-x'|}{|x|} $$
