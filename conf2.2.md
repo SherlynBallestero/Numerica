@@ -49,7 +49,7 @@ Para evitarlo podemos:
 #### Estabilidad Numérica: propiedad que mide cuán sensible es un algoritmo a los errores de redondeo.
 Si el algoritmo es estable, esos errores se mantienen acotados,
 idealmente son menores que el  épsilon de la máquina. Si el algoritmo es
-inestable, un peque~no error puede ser desastroso, como en el caso de la raíz de
+inestable, un diminuto error puede ser desastroso, como en el caso de la raíz de
 la parábola.
 `Condición de una función`
 La condición de una función describe cuánto puede variar el error en el
