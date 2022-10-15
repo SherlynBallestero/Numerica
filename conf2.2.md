@@ -57,7 +57,7 @@ resultado de la evaluación de una funcioón, si varía el error en el argumento
 Cómo sabemos cúal es????????
 ~El error relativo(df) que se comete en la función es:
 $$df=\frac{|fx-fx'|}{|fx|} $$
-~Y el error relativo que se comete al aproximar x por x' es:
+Y el error relativo que se comete al aproximar x por x' es:
 $$dx=\frac{|x-x'|}{|x|} $$
 Por lo tanto, un medidor de cuánto varía el error relativo de la función cuando
 varía el error relativo del argumento se puede describir cómo:
