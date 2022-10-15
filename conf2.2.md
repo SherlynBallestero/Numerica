@@ -4,7 +4,7 @@
 Teniendo que :
 Valor exacto: x
 Valor aproximado: x'
-#### Error absoluto: $$e= |x -x'|$$
+#### Error absoluto: $$ e= |x -x'| $$
 #### Error relativo: $$d= \frac{|x -x'|}{x}$$
 #### Cifras significativas correctas(csc):
 ¿Qué son las cifras significativas?
